@@ -2,3 +2,4 @@ test_bk/
 node_modules/
 package-lock.json
 screenshot/
+.idea/
