@@ -1,18 +1,18 @@
 # smoke-test
 
-##Install
+### Install
 ``
 npm install
 ``
 
-##Add script test into package.json
+### Add script test into package.json
 ``
 "scripts": {
     "test": "mocha"
   }
 ``
 
-##Run test
+### Run test
 ``
 npm test
 ``
